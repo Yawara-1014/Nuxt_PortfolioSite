@@ -18,7 +18,7 @@
             Works
           </button>
           </nuxt-link>
-          <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://twitter.com/1014Yawara" target="_blank" rel="noopener noreferrer">
             <button>
               <fa-layers full-width class="fa-2x block mx-auto mb-1">
                 <fa :icon="faTwitter" />
